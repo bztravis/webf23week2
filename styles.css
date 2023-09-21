@@ -1,0 +1,15 @@
+* {
+  font-family: sans-serif;
+}
+
+#nav {
+  margin: 24px;
+}
+
+.logo {
+  width: 100px;
+}
+
+.post {
+  border: 1px solid black;
+}
